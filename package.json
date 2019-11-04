@@ -1,0 +1,31 @@
+{
+  "name": "git-group-fullstack",
+  "version": "1.0.0",
+  "description": "KG in the hizzouse.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.4",
+    "pg": "^7.12.1",
+    "sequelize": "^5.21.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PurpleTatsu/git-group-fullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PurpleTatsu/git-group-fullstack/issues"
+  },
+  "homepage": "https://github.com/PurpleTatsu/git-group-fullstack#readme"
+}
